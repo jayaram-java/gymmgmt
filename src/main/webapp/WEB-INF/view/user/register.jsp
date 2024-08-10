@@ -112,7 +112,7 @@ body {
 <section id="main-body">
 	<div class="login-page">
 		<div class="form">
-			<h1>Register</h1>
+			<h1>Member Register</h1>
 			<form>
 				<input type="text" name="username" id="username" placeholder="Username" />
 				<input type="text" name="email" id="email" placeholder="Email" />
